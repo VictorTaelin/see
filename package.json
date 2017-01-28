@@ -1,0 +1,17 @@
+{
+  "name": "inl",
+  "version": "1.0.0",
+  "description": "See the inlined contents of a JS function",
+  "main": "inl.js",
+  "scripts": {
+    "test": "mocha test"
+  },
+  "keywords": [
+    "lambda",
+    "lambda-calculus",
+    "function",
+    "json"
+  ],
+  "author": "MaiaVictor",
+  "license": "MIT"
+}
